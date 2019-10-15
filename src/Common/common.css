@@ -1,0 +1,19 @@
+.Common {
+  height: 100%;
+  width:100%;
+}
+.menu_bg a{
+  color: black !important;
+}
+
+.inline{
+  display: inline-block
+}
+
+.log{
+  margin: 0 1rem 0 0;
+  cursor: pointer;
+}
+.icon{
+  margin: 0 .5rem;
+}

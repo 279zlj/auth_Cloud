@@ -1,0 +1,29 @@
+body,#root{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #151A37
+}
+.ant-layout{
+  height: 100%;
+}
+.imgs{
+  margin: 0 1rem;
+}
+.ant-modal-header{
+  border-bottom:1px solid #5A5E78
+}
+.ant-modal-header,.ant-modal-content{
+  background-color: #1B2143 !important;
+}
+.ant-modal-title,.ant-form-item-required,.ant-radio-wrapper span,.ant-modal-close-x,.ant-modal-confirm-title,.ant-modal-confirm-content,.ant-form-item-label > label{
+  color:white !important;
+}
+.ant-layout-header{
+  color:white !important;
+  padding: 0 !important;
+  background-color: #1B2143 !important;
+}
+a,.ant-card-head-title,.ant-table-row{
+  color:white !important;
+}

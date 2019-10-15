@@ -1,0 +1,32 @@
+.ant-table-thead > tr >th{
+    color: white;
+    background: #1B2143 !important;
+  }
+  .btn{
+      margin-left: 1rem;
+  }
+  .inpcolor{
+      color: black !important;
+  }
+  .ant-table-tbody > tr > td {
+    background: rgba(255,255,255,0) !important;
+  }
+  .ant-table-tbody > tr >td:hover{
+    background: #2A336A !important;
+  }
+  .ant-pagination-item,.ant-pagination-prev .ant-pagination-item-link, .ant-pagination-next .ant-pagination-item-link{
+    background-color: #1B2143;
+  }
+  .ant-pagination-prev .ant-pagination-item-link, .ant-pagination-next .ant-pagination-item-link{
+    border:0px
+  }
+  .ant-card-head{
+    border-bottom:1px solid #424664
+  }
+  .ant-table-placeholder{
+    background: #1B2143
+  }
+  .ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-filters .anticon-filter.ant-table-filter-open, .ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-filters .ant-table-filter-icon.ant-table-filter-open,
+  .ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-filters:hover .anticon-filter:hover, .ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-filters:hover .ant-table-filter-icon:hover{
+    background: #2A336A
+  }

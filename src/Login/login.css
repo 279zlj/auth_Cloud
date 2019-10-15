@@ -1,0 +1,41 @@
+.lcontent{
+    background-color:#111322 ;
+    height:100%
+}
+.bgparent{
+    height:100%;
+    margin:0 auto;
+    position:relative
+}
+.bgimg{
+    position:absolute;
+    width:70%;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%)
+}
+.from{
+    border:1px solid #1E8BC6;
+    border-radius:.5rem;
+    margin-top:10%
+}
+.inner{
+    background-color:#191935;
+    margin:.5rem;
+    border-radius:.5rem;
+    padding:2.5rem 2rem
+}
+.welcome{
+    color:white;
+    text-align:center;
+    margin-bottom:1rem
+}
+.footerfont{
+    font-size: small;
+    display: block;
+    text-align: center;
+    color:white;
+}
+.ant-layout-footer{
+    padding:10px 50px !important;
+}
